@@ -100,7 +100,7 @@
 
               <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">&times;</button>
-              <h4 class="modal-title">Lizbeth</h4>
+              <h4 class="modal-title">Schedule for today</h4>
               </div>
               <div class="modal-header">
 <div class="table-responsive">          
